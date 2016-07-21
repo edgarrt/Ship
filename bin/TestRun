@@ -1,0 +1,25 @@
+This Cruise ship extends Ship class
+This ship is 100 feet long, 50 ft wide, and 70 ft tall 
+Its desnity is 300, max weight being 100000 , and its displacement is 300000
+It was made in the year 1999, can have a max crew of 250
+It has 300 total rooms, and 1000 total passangers
+It has been 45 days since their last stop, and the price per passanger is $75.0
+For entertainment it has Concerts and serves Fish  as food
+The Ships name is THE ONLY CRUISE SHIP, made by BOATSNBOATS, and is made out of Steel
+This Cruise ship is on its way to NorthPole
+
+This Cargo ship extends Ship class
+This ship is 400 feet long, 100 ft wide, and 100 ft tall 
+Its desnity is 700, max weight being 500000 , and its displacement is 500000
+It was made in the year 2011, can have a max crew of 500
+It has a capacity of 1000000, volume of 3000000
+It has been 101 days since their last stop, and can hold up to 10000 gallon of fuel
+Its cargo is Cars From Japan
+The Ships name is The one and only Cargo Ship, made by CargoShip Masters, and is made out of Steel
+This Cargo ship is on its way to Mexico
+
+This ship is 50 feet long, 30 ft wide, and 40 ft tall 
+Its desnity is 1000, max weight being 25000 , and its displacement is 10000
+It was made in the year 2016, can have a max crew of 12
+The Ships name is Puny Ship, made by Some Guy, and is made out of Paper
+This ship is on its way to The Bay
